@@ -1,7 +1,7 @@
 ## 实验六：基于GitHub的实验管理平台的分析与设计
 |学号|班级|姓名|照片|
 |:-------:|:-------------: | :----------:|:---:|
-|201610414102|软件(本)16-1|陈泽茂|![wo](../test1/wo.jpg)
+|201610414201|软件(本)17-2|陈佳豪]
 ### 1.概述
 <hr>
 
@@ -15,8 +15,6 @@
 <hr>
 
 ![实验管理平台](./images/实验管理平台.jpg)
-
-- 界面设计参见: https://zemaochen.github.io/is_analysis_pages/test6/index
 
 ### 3.用例图设计|[源码](./uml/用例图设计.puml)
 <hr>
@@ -34,17 +32,5 @@
 [参见数据库设计](./md/数据库设计.md)
 ### 6.用例及界面详细设计
 <hr>
-
-- #### [“学生列表”用例](./用例/学生列表.md),[界面](https://zemaochen.github.io/is_analysis_pages/test6/index.html)
-- #### [“评定成绩”用例](./用例/评定成绩.md),[界面](https://zemaochen.github.io/is_analysis_pages/test6/grade.html)
-- #### [“登录”用例](./用例/登录.md),[界面](https://zemaochen.github.io/is_analysis_pages/test6/login.html)
-- #### [“登出”用例](./用例/登出.md),[界面](https://zemaochen.github.io/is_analysis_pages/test6/bar.html)
-- #### [“选择学期”用例](./用例/选择学期.md),[界面](https://zemaochen.github.io/is_analysis_pages/test6/course.html)
-- #### [“选择课程”用例](./用例/选择课程.md),[界面](https://zemaochen.github.io/is_analysis_pages/test6/course.html)
-- #### [“修改密码”用例](./用例/修改密码.md),[界面](https://zemaochen.github.io/is_analysis_pages/test6/modifypwd.html)
-- #### [“修改用户信息”用例](./用例/修改用户信息.md),[界面](https://zemaochen.github.io/is_analysis_pages/test6/modify.html)
-- #### [“查看用户信息”用例](./用例/查看用户信息.md),[界面](https://zemaochen.github.io/is_analysis_pages/test6/userinfo.html)
-- #### [“查看成绩”用例](./用例/查看成绩.md),[界面](https://zemaochen.github.io/is_analysis_pages/test6/tests.html)
-
 
 
